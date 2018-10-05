@@ -13,6 +13,8 @@
      
      DFS的缺点：每次递归都按照方向顺序选择路径，而当迷宫是死路时，只有将迷宫全部可走路径完全遍历一遍才会结束搜索。
                算法的难易程度由算法所确定的行走的方向顺序决定。
+     
+     程序源码地址:https://github.com/Gavinee/Game/blob/master/%E8%BF%B7%E5%AE%AB/DFS.py
 """
 __author__ = 'Qiufeng'
 #深度优先搜索，走迷宫
