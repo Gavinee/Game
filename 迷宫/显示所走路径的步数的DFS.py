@@ -15,6 +15,7 @@
                算法的难易程度由算法所确定的行走的方向顺序决定。
                
      此程序能实时显示所走的路径的步数位置。
+     程序源码地址:https://github.com/Gavinee/Game/blob/master/%E8%BF%B7%E5%AE%AB/%E6%98%BE%E7%A4%BA%E6%89%80%E8%B5%B0%E8%B7%AF%E5%BE%84%E7%9A%84%E6%AD%A5%E6%95%B0%E7%9A%84DFS.py
 """
 __author__ = 'Qiufeng'
 # 深度优先搜索，走迷宫
